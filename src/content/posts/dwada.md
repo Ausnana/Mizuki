@@ -1,12 +1,13 @@
 ---
 abbrlink: ''
 categories: []
+category: Examples
 date: ''
 draft: true
-published: '2025-04-01'
+published: '2022-07-01'
 tags: []
-title: ''
-updated: '2025-12-30T20:10:29.282+08:00'
+title: Draft Example
+updated: '2025-12-30T20:09:22.041+08:00'
 ---
 ![RoundCorner-150x150.png](https://cloudflare-imgbed.drxian.cn/file/img/1767092697173_RoundCorner-150x150.png)
 
