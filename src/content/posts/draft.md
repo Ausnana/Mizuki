@@ -1,11 +1,14 @@
 ---
-title: Draft Example
-published: 2022-07-01
-tags: [Markdown, Blogging, Demo]
+abbrlink: ''
+categories: []
 category: Examples
+date: ''
 draft: true
+published: '2022-07-01'
+tags: []
+title: Draft Example
+updated: '2025-12-30T20:09:22.041+08:00'
 ---
-
 # This Article is a Draft
 
 This article is currently in a draft state and is not published. Therefore, it will not be visible to the general audience. The content is still a work in progress and may require further editing and review.
@@ -20,3 +23,4 @@ tags: [Markdown, Blogging, Demo]
 category: Examples
 draft: false
 ---
+```
